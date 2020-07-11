@@ -4,12 +4,15 @@ Automate your Project initialization process
 ### Install: 
 ```bash
 git clone "https://github.com/Kallyas/ProjectInitAutomation.git"
-cd ProjectInitializationAutomation
-pip install -r requirements.txt
-source ~/.my_commands.sh
-Then go to create.py and set the username and password to be your username and password.
-Also make sure to change all directories to your directories so it should be '/Users/<your username>/path/to/your/project'
 ```
+`cd ProjectInitializationAutomation`
+```bash
+pip install -r requirements.txt
+```
+```bash source ~/.my_commands.sh
+```
+Then go to create.py and set the username and password to be your username and password.
+Also make sure to change all directories to your directories so it should be `'/Users/<your username>/path/to/your/project'`
 
 ### Usage:
 ```bash
