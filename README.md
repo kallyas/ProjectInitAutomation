@@ -1,3 +1,4 @@
+![Python application](https://github.com/kallyas/ProjectInitAutomation/workflows/Python%20application/badge.svg?branch=master)
 # ProjectInitAutomation
 
 Automate your Project initialization process
