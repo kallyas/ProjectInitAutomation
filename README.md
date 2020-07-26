@@ -32,8 +32,8 @@ To run the script type in 'create <name of your folder>'
 
 ### Env File Format:
 
-USERNAME=`"Username123"`
-
-PASSWORD=`"Password123"`
-
-FILEPATH=`"/path/to/your/project/"`
+```bash
+USERNAME="Username123"
+PASSWORD="Password123"
+FILEPATH="/path/to/your/project/"
+```
