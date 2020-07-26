@@ -14,20 +14,21 @@ git clone "https://github.com/Kallyas/ProjectInitAutomation.git"
 pip install -r requirements.txt
 ```
 
-touch .env
+`touch .env`
 
-Then open the .env file and store your username, password, and desired file destination.
+Then open the `.env` file and store your username, password, and desired file destination.
 
 Use the provided format at the bottom of this README.
 
-```shell source ~/.my_commands.sh
-
-````
+```shell
+source ~/.my_commands.sh
+```
 
 ### Usage:
+
 ```shell
 To run the script type in 'create <name of your folder>'
-````
+```
 
 ### Env File Format:
 
